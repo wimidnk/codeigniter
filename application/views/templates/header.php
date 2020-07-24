@@ -1,7 +1,8 @@
 <html>
 	<head>
 		<title>Local Blog</title>
-		<link rel="stylesheet" type="text/css" href="/assets/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://bootswatch.com/3/flatly/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 	</head>
 	<body>
 		<nav class="navbar navbar-inverse">
@@ -17,3 +18,5 @@
 	        </div>
 	      </div>
 	    </nav>
+
+	    <div class="container"></div>
